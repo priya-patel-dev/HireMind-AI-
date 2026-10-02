@@ -3,7 +3,7 @@
 AI-powered hiring intelligence platform designed to streamline recruitment workflows, improve candidate evaluation, and support smarter hiring decisions.
 
 ## Overview
-HireMind AI helps recruiters and hiring teams assess candidates more effectively by combining intelligent workflow support with structured evaluation experiences. The platform is focused on improving decision quality while keeping recruitment operations simple and efficient.
+HireMind AI helps recruiters and hiring teams assess candidates more effectively by combining intelligent workflow support with structured evaluation experiences. The platform is focused on improving hiring quality, reducing friction, and making recruitment more data-driven.
 
 ## Features
 - AI-assisted candidate screening
@@ -21,17 +21,21 @@ HireMind AI helps recruiters and hiring teams assess candidates more effectively
 ## Demo
 - Add your deployed app link here
 
-## Run Locally
+## Run locally
 ```bash
 npm install
 npm run dev
 ```
 
-## Project Goal
+## Project goal
 To make recruiting more efficient, structured, and data-driven with AI-assisted support.
 
-## My Contribution
+## My contribution
 This project focuses on creating a polished hiring experience that balances usability, candidate evaluation, and operational clarity.
 
 ## Status
 Active portfolio project
+
+---
+
+Smarter hiring. Better decisions. Stronger teams.
